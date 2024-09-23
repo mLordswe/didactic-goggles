@@ -9,5 +9,16 @@
   <body>
     <h1>Git is fun</h1>
     <button id="button">Detta är en knapp</button>
+    <button id="button2">Detta är en annan knapp</button>
+    <script>
+      document.getElementById("button").addEventListener("click", function () {
+        alert("Hello World!");
+      });
+      document
+        .getElementById("button2")
+        .addEventListener("click", function () {
+        prompt("Skriv in ditt namn");
+        });
+    </script>
   </body>
 </html>
