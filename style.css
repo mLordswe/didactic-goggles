@@ -1,6 +1,8 @@
 button {
   background-color: rgb(65, 65, 226);
-  border: 0cap;
-  cursor: all-scroll;
-  border: 50%;
+
+  cursor: pointer;
+  border: 20%;
+  padding: 20px;
+  margin: 20px;
 }
