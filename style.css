@@ -2,4 +2,5 @@ button {
   background-color: rgb(65, 65, 226);
   border: 0cap;
   cursor: all-scroll;
+  border: 50%;
 }
